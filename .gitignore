@@ -1,0 +1,8 @@
+bin/
+massif*
+obj/
+*.cbp
+*.depend
+*.layout
+*.o
+scheduler
